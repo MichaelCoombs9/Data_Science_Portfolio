@@ -11,5 +11,6 @@ Hello and welcome to my data science portfolio! As an enthusiastic student of da
 
 This project was completed using Python in Google Colab and the visualization was created in Flourish Studios. To gather the data for this project, I utilized the NASA Exoplanet Archive, which is a reputable source of information.
 
+![](images/Exoplanet%20Discovery%20Type%20.png)
 
 ## Project #2:
