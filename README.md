@@ -14,3 +14,7 @@ This project was completed using Python in Google Colab and the visualization wa
 ![](images/Exoplanet%20Discovery%20Type%20.png)
 
 ## Project #2:
+
+
+
+theme: architect 
